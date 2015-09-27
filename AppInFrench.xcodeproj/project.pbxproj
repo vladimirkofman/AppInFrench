@@ -115,10 +115,10 @@
 			};
 			buildConfigurationList = 24E16A061BB893E20064B894 /* Build configuration list for PBXProject "AppInFrench" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = fr;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				en,
+				fr,
 				Base,
 			);
 			mainGroup = 24E16A021BB893E20064B894;
